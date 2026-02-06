@@ -55,4 +55,6 @@ fortran/_wrffortran-f2pywrappers2.f90
 build
 .settings
 src/wrf_python.egg-info
-
+dist/
+uv.lock
+.python-version
