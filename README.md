@@ -5,6 +5,12 @@ wrf-python
 
 All wheel files are built on **Arch Linux**.
 
+You can also install wrf-python from this repo directly. For example
+
+```bash
+uv add "wrf-python @ git+https://github.com/Syize/wrf-python-wheel-build.git"
+```
+
 ---
 
 A collection of diagnostic and interpolation routines for use with output from the Weather Research and Forecasting (WRF-ARW) Model.
